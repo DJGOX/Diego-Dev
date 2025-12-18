@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diegousa.com/sitemap.xml
